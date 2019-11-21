@@ -1,6 +1,6 @@
 //==============================================================
 //Computations.java			Author: Michael Quinlan
-//							Course: CSCI 1301
+//					Course: CSCI 1301
 //Lab assignment to demonstrate understanding of integer types.
 //==============================================================
 
