@@ -1,2 +1,3 @@
 # Java-Fiddling
-extra credit
+CSCI2 extra credit assignment
+
